@@ -1,0 +1,183 @@
+body{
+    background: whitesmoke;
+}
+
+
+
+li{
+    list-style:none; 
+    font-weight: bold;
+}
+
+li a{
+    color: rgb(131, 74, 64);
+    font-size: 20px;
+}
+
+li a:hover{
+
+    border-top: 1px solid gray;
+    border-left: 1px solid gray;
+    border-right:  1px solid gray;
+    border-radius: 200px 200px 0px 0px;
+    margin: 0px;
+    padding: 0px;
+    background: whitesmoke;
+    color: black;
+    box-shadow: 10px 10px;
+
+
+}
+
+.contenedor1 h1{
+
+    font-size: 100px;
+    color: rgb(80, 46, 110);
+
+}
+.contenedor1 h2{
+
+    font-size: 20px;
+    color: black;
+
+}
+
+.contenedor3{
+    background: linear-gradient(white,rgb(231, 231, 231)) ;
+    border: 2px solid rgb(199, 194, 194);
+    padding: 50px;
+    margin: 35px 0px;
+    box-shadow: 10px 10px rgb(199, 194, 194);
+}
+
+.contenedor3 h1{
+    font-size: 150px;
+    font-weight: bold;
+}
+.contenedor3 h2{
+    font-size: 30px;
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+
+.contenedor3 .jumbotron{
+    background: linear-gradient(rgb(51, 51, 119),grey); 
+    padding: 50px;
+    margin: 35px 0px;
+    color: white;
+}
+
+.btn{
+
+    background: rgb(131, 74, 64);
+    border-radius: 50px;
+    border-color: rgb(131, 74, 64);
+    font-weight: bold;
+
+}
+
+#bt1{
+
+    background: white;
+    border-radius: 50px;
+    border-color: whitesmoke;
+    font-weight: bold;
+    color: gray;
+
+}
+
+p{
+    font-size: 15px;
+    color: black;
+}
+
+.contenedor4{
+    background: linear-gradient(white,rgb(231, 231, 231)) ;
+    padding: 50px;
+    margin: 35px 0px;
+    box-shadow: 10px 10px rgb(199, 194, 194);
+    border: 2px solid rgb(199, 194, 194);
+}
+
+
+.contenedor4 h1{
+
+    font-size: 15px;
+    color: black;
+    font-weight: bold;
+
+}
+
+.contenedor5{
+    background: linear-gradient(white,rgb(231, 231, 231)) ;
+    padding: 50px;
+    margin: 35px 0px;
+    box-shadow: 10px 10px rgb(199, 194, 194);
+    border: 2px solid rgb(199, 194, 194);
+}
+
+.navbar {
+    margin: 30px 0px;
+}
+
+
+.contenedor5 h1, .contenedor6 h1{
+    color: rgb(131, 74, 64);
+    font-size: 50px;
+}
+.contenedor5 h2 , .contenedor6 h2{
+    color: rgb(131, 74, 64);
+    font-size: 30px;
+    margin-bottom: 30px;
+
+}
+.contenedor5 h3{
+    color: gray;
+    font-size: 30px;
+
+}
+.contenedor5 h4{
+    color: gray;
+    font-size: 15px;
+    margin-bottom: 30px;
+
+}
+
+input{
+    margin: 30px 0px;
+    background-color: gray;
+}
+
+.form-group input, .form-group textarea{
+    background-color: whitesmoke;
+}
+
+
+.contenedor6{
+    background: linear-gradient(white,rgb(231, 231, 231)) ;
+    padding: 50px;
+    margin: 35px 0px;
+    box-shadow: 10px 10px rgb(199, 194, 194);
+    border: 2px solid rgb(199, 194, 194);
+}
+
+.segundop{
+    padding: 200px 0px;
+    
+}
+
+.redes .btn{
+
+    margin: 0px;
+    padding: 0px;
+    background: whitesmoke;
+    color: rgb(131, 74, 64);
+    border-radius: 0px;
+    border-color: whitesmoke;
+
+}
+
+.contenedor4 .row{
+    margin: 40px;
+}
